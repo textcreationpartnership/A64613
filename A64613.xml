@@ -1,0 +1,2805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An useful table for all uictuallers &amp; others dealing in beer &amp; ale</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64613</idno>
+            <idno type="STC">Wing U145</idno>
+            <idno type="STC">ESTC R222258</idno>
+            <idno type="EEBO-CITATION">99833446</idno>
+            <idno type="PROQUEST">99833446</idno>
+            <idno type="VID">37922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2201:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An useful table for all uictuallers &amp; others dealing in beer &amp; ale</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and published by Randolph Taylor over against Stationers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Society of Antiquaries, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  Prices --  England --  Early works to 1800.</term>
+               <term>Ale --  Prices --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <p>
+               <pb facs="tcp:37922:1"/>
+               <table>
+                  <head>An Vſeful Table for all Victuallers &amp; others dealing in Beer &amp; Ale.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="4">Beer at 12 ſhillings 6 <abbr>
+                           <hi>d</hi>
+                        </abbr> the Barrel.</cell>
+                     <cell role="label" cols="4">Beer at 14 ſhillings the Barrel.</cell>
+                     <cell role="label" cols="4">Beer at 15 ſhillings the Barrel.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">B</cell>
+                     <cell role="label" cols="4">Barrels</cell>
+                     <cell role="label" cols="4">Barrels</cell>
+                     <cell role="label" cols="4">Barrels</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>00 12 06</cell>
+                     <cell>00 14 00</cell>
+                     <cell>00 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>01 05 00</cell>
+                     <cell>01 08 00</cell>
+                     <cell>01 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>01 07 06</cell>
+                     <cell>02 02 00</cell>
+                     <cell>02 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>02 10 00</cell>
+                     <cell>02 16 00</cell>
+                     <cell>03 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>03 02 06</cell>
+                     <cell>03 10 00</cell>
+                     <cell>03 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>03 15 00</cell>
+                     <cell>04 04 00</cell>
+                     <cell>04 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>04 07 06</cell>
+                     <cell>04 28 00</cell>
+                     <cell>05 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>05 00 00</cell>
+                     <cell>05 12 00</cell>
+                     <cell>06 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>05 12 06</cell>
+                     <cell>06 06 00</cell>
+                     <cell>06 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>06 05 00</cell>
+                     <cell>07 00 00</cell>
+                     <cell>07 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>06 17 06</cell>
+                     <cell>07 14 00</cell>
+                     <cell>08 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>07 10 00</cell>
+                     <cell>08 08 00</cell>
+                     <cell>09 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>08 02 06</cell>
+                     <cell>09 02 00</cell>
+                     <cell>09 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>08 15 00</cell>
+                     <cell>09 16 00</cell>
+                     <cell>10 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>09 07 06</cell>
+                     <cell>10 10 00</cell>
+                     <cell>11 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>10 00 00</cell>
+                     <cell>11 04 00</cell>
+                     <cell>12 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>10 12 06</cell>
+                     <cell>11 18 00</cell>
+                     <cell>12 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>11 05 00</cell>
+                     <cell>12 12 00</cell>
+                     <cell>13 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>11 17 06</cell>
+                     <cell>13 06 00</cell>
+                     <cell>14 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>12 10 00</cell>
+                     <cell>14 00 00</cell>
+                     <cell>15 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>13 02 06</cell>
+                     <cell>14 14 00</cell>
+                     <cell>15 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>13 15 00</cell>
+                     <cell>15 08 00</cell>
+                     <cell>16 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>14 07 06</cell>
+                     <cell>16 02 00</cell>
+                     <cell>17 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>15 00 00</cell>
+                     <cell>16 16 00</cell>
+                     <cell>18 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>16 12 66</cell>
+                     <cell>17 10 00</cell>
+                     <cell>18 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>16 05 00</cell>
+                     <cell>18 04 00</cell>
+                     <cell>19 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>16 17 06</cell>
+                     <cell>18 18 00</cell>
+                     <cell>20 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>17 10 00</cell>
+                     <cell>19 12 00</cell>
+                     <cell>21 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>18 02 06</cell>
+                     <cell>20 06 00</cell>
+                     <cell>21 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>18 15 00</cell>
+                     <cell>21 00 00</cell>
+                     <cell>22 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>19 07 06</cell>
+                     <cell>21 14 00</cell>
+                     <cell>23 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>20 00 00</cell>
+                     <cell>22 08 00</cell>
+                     <cell>24 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>20 12 06</cell>
+                     <cell>23 02 00</cell>
+                     <cell>24 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>21 05 00</cell>
+                     <cell>23 16 00</cell>
+                     <cell>25 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>21 17 06</cell>
+                     <cell>24 10 00</cell>
+                     <cell>26 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>22 10 00</cell>
+                     <cell>25 04 00</cell>
+                     <cell>27 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>23 02 06</cell>
+                     <cell>25 18 00</cell>
+                     <cell>27 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>23 15 00</cell>
+                     <cell>26 12 00</cell>
+                     <cell>28 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>24 07 06</cell>
+                     <cell>27 06 00</cell>
+                     <cell>29 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>25 00 00</cell>
+                     <cell>28 00 00</cell>
+                     <cell>30 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>25 12 06</cell>
+                     <cell>28 14 00</cell>
+                     <cell>30 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>26 05 00</cell>
+                     <cell>29 08 00</cell>
+                     <cell>31 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>26 17 06</cell>
+                     <cell>30 02 00</cell>
+                     <cell>32 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>27 10 00</cell>
+                     <cell>30 16 00</cell>
+                     <cell>33 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>28 02 06</cell>
+                     <cell>31 10 00</cell>
+                     <cell>33 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>28 15 00</cell>
+                     <cell>32 04 00</cell>
+                     <cell>34 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>29 07 06</cell>
+                     <cell>32 18 00</cell>
+                     <cell>35 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>30 00 00</cell>
+                     <cell>33 12 00</cell>
+                     <cell>36 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>30 12 06</cell>
+                     <cell>34 06 00</cell>
+                     <cell>36 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>31 05 00</cell>
+                     <cell>35 00 00</cell>
+                     <cell>37 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>31 17 06</cell>
+                     <cell>35 14 00</cell>
+                     <cell>38 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>32 10 00</cell>
+                     <cell>36 08 00</cell>
+                     <cell>39 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>33 02 06</cell>
+                     <cell>37 02 00</cell>
+                     <cell>39 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>33 15 00</cell>
+                     <cell>27 16 00</cell>
+                     <cell>40 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>34 07 06</cell>
+                     <cell>38 10 00</cell>
+                     <cell>41 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>35 00 00</cell>
+                     <cell>39 04 00</cell>
+                     <cell>42 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>35 12 06</cell>
+                     <cell>39 18 00</cell>
+                     <cell>42 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>36 05 00</cell>
+                     <cell>40 12 00</cell>
+                     <cell>43 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>36 17 06</cell>
+                     <cell>41 06 00</cell>
+                     <cell>44 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>37 10 00</cell>
+                     <cell>42 00 00</cell>
+                     <cell>45 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>38 02 06</cell>
+                     <cell>42 14 00</cell>
+                     <cell>45 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>38 15 00</cell>
+                     <cell>43 08 00</cell>
+                     <cell>46 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>39 07 06</cell>
+                     <cell>44 02 00</cell>
+                     <cell>47 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>40 00 00</cell>
+                     <cell>44 16 00</cell>
+                     <cell>48 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>40 12 06</cell>
+                     <cell>45 10 00</cell>
+                     <cell>48 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>41 05 00</cell>
+                     <cell>46 04 00</cell>
+                     <cell>49 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>41 17 06</cell>
+                     <cell>46 18 00</cell>
+                     <cell>50 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>42 10 00</cell>
+                     <cell>47 12 00</cell>
+                     <cell>51 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>43 02 06</cell>
+                     <cell>48 06 00</cell>
+                     <cell>51 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>43 15 00</cell>
+                     <cell>49 00 00</cell>
+                     <cell>52 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>44 07 06</cell>
+                     <cell>49 14 00</cell>
+                     <cell>53 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>45 00 00</cell>
+                     <cell>50 08 00</cell>
+                     <cell>54 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>45 12 06</cell>
+                     <cell>51 02 00</cell>
+                     <cell>54 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>46 00 00</cell>
+                     <cell>51 16 00</cell>
+                     <cell>55 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>46 17 06</cell>
+                     <cell>52 10 00</cell>
+                     <cell>56 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>47 10 00</cell>
+                     <cell>53 04 00</cell>
+                     <cell>57 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>48 02 06</cell>
+                     <cell>53 18 00</cell>
+                     <cell>57 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>48 15 00</cell>
+                     <cell>54 12 00</cell>
+                     <cell>58 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>49 07 06</cell>
+                     <cell>55 06 00</cell>
+                     <cell>59 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>50 00 00</cell>
+                     <cell>56 00 00</cell>
+                     <cell>60 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>81</cell>
+                     <cell>50 12 06</cell>
+                     <cell>56 14 00</cell>
+                     <cell>60 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>82</cell>
+                     <cell>51 05 00</cell>
+                     <cell>57 08 00</cell>
+                     <cell>61 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>83</cell>
+                     <cell>51 17 06</cell>
+                     <cell>58 02 00</cell>
+                     <cell>62 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>84</cell>
+                     <cell>52 10 00</cell>
+                     <cell>58 16 00</cell>
+                     <cell>63 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>85</cell>
+                     <cell>53 02 06</cell>
+                     <cell>59 10 00</cell>
+                     <cell>63 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>86</cell>
+                     <cell>53 15 00</cell>
+                     <cell>60 04 00</cell>
+                     <cell>64 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell>54 07 06</cell>
+                     <cell>60 18 00</cell>
+                     <cell>65 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell>55 00 00</cell>
+                     <cell>61 12 00</cell>
+                     <cell>66 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell>55 12 06</cell>
+                     <cell>62 06 00</cell>
+                     <cell>66 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>56 05 00</cell>
+                     <cell>63 00 00</cell>
+                     <cell>67 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>91</cell>
+                     <cell>56 17 06</cell>
+                     <cell>63 14 00</cell>
+                     <cell>68 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>57 10 00</cell>
+                     <cell>64 08 00</cell>
+                     <cell>69 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>58 02 06</cell>
+                     <cell>65 02 00</cell>
+                     <cell>69 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell>58 15 00</cell>
+                     <cell>65 16 00</cell>
+                     <cell>70 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell>59 07 06</cell>
+                     <cell>66 10 00</cell>
+                     <cell>71 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell>60 00 00</cell>
+                     <cell>67 04 00</cell>
+                     <cell>72 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell>60 12 06</cell>
+                     <cell>67 10 00</cell>
+                     <cell>72 15 00</cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell>61 05 00</cell>
+                     <cell>68 12 00</cell>
+                     <cell>73 10 00</cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell>61 17 06</cell>
+                     <cell>69 06 00</cell>
+                     <cell>74 05 00</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>62 10 00</cell>
+                     <cell>70 00 00</cell>
+                     <cell>75 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>125 00 00</cell>
+                     <cell>140 00 00</cell>
+                     <cell>150 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>187 10 00</cell>
+                     <cell>210 00 00</cell>
+                     <cell>225 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>250 00 00</cell>
+                     <cell>280 00 00</cell>
+                     <cell>300 00 00</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>312 10 00</cell>
+                     <cell>350 00 00</cell>
+                     <cell>375 00 00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="4">Ale at 16 ſhillings the Barrel.</cell>
+                     <cell role="label" cols="4">Ale at 16 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d.</hi>
+                        </abbr> the Bar<g ref="char:EOLhyphen"/>rel.</cell>
+                     <cell role="label" cols="4">Ale at 17 ſhillings the Barrel.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Barrels</cell>
+                     <cell role="label">Barrels</cell>
+                     <cell role="label">Barrels</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>00 16 0</cell>
+                     <cell>00 16 6</cell>
+                     <cell>00 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>01 12 0</cell>
+                     <cell>01 13 0</cell>
+                     <cell>01 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>02 08 0</cell>
+                     <cell>02 09 6</cell>
+                     <cell>02 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>03 04 0</cell>
+                     <cell>03 06 0</cell>
+                     <cell>03 08 0</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>04 00 0</cell>
+                     <cell>04 02 6</cell>
+                     <cell>04 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>04 16 0</cell>
+                     <cell>04 19 0</cell>
+                     <cell>05 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>05 12 0</cell>
+                     <cell>05 15 6</cell>
+                     <cell>05 19 0</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>06 08 0</cell>
+                     <cell>06 12 0</cell>
+                     <cell>06 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>07 04 0</cell>
+                     <cell>07 08 6</cell>
+                     <cell>07 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>08 00 0</cell>
+                     <cell>08 05 0</cell>
+                     <cell>08 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>08 16 0</cell>
+                     <cell>09 01 6</cell>
+                     <cell>09 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>09 12 0</cell>
+                     <cell>09 18 0</cell>
+                     <cell>10 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>10 08 0</cell>
+                     <cell>10 14 6</cell>
+                     <cell>11 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>11 04 0</cell>
+                     <cell>11 11 0</cell>
+                     <cell>11 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>12 00 0</cell>
+                     <cell>12 07 6</cell>
+                     <cell>12 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>12 16 0</cell>
+                     <cell>13 04 0</cell>
+                     <cell>13 12 0</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>13 12 0</cell>
+                     <cell>14 00 6</cell>
+                     <cell>14 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>14 08 0</cell>
+                     <cell>14 17 0</cell>
+                     <cell>15 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>15 04 0</cell>
+                     <cell>15 13 6</cell>
+                     <cell>16 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>16 00 0</cell>
+                     <cell>16 10 0</cell>
+                     <cell>17 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>16 16 0</cell>
+                     <cell>17 06 6</cell>
+                     <cell>17 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>17 12 0</cell>
+                     <cell>18 03 0</cell>
+                     <cell>18 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>18 08 0</cell>
+                     <cell>18 19 6</cell>
+                     <cell>19 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>19 04 0</cell>
+                     <cell>19 16 0</cell>
+                     <cell>20 08 0</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>20 00 0</cell>
+                     <cell>20 12 6</cell>
+                     <cell>21 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>20 16 0</cell>
+                     <cell>21 09 0</cell>
+                     <cell>22 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>21 12 0</cell>
+                     <cell>22 05 6</cell>
+                     <cell>22 99 0</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>22 08 0</cell>
+                     <cell>23 02 0</cell>
+                     <cell>23 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>23 04 0</cell>
+                     <cell>23 18 6</cell>
+                     <cell>24 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>24 00 0</cell>
+                     <cell>24 15 0</cell>
+                     <cell>25 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>24 16 0</cell>
+                     <cell>25 11 6</cell>
+                     <cell>26 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>25 12 0</cell>
+                     <cell>26 08 0</cell>
+                     <cell>27 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>26 08 0</cell>
+                     <cell>27 04 6</cell>
+                     <cell>28 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>27 04 0</cell>
+                     <cell>28 10 0</cell>
+                     <cell>28 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>28 00 0</cell>
+                     <cell>28 17 6</cell>
+                     <cell>29 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>28 16 0</cell>
+                     <cell>29 14 0</cell>
+                     <cell>30 12 0</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>29 12 0</cell>
+                     <cell>30 10 6</cell>
+                     <cell>31 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>30 08 0</cell>
+                     <cell>31 07 0</cell>
+                     <cell>32 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>31 04 0</cell>
+                     <cell>32 03 6</cell>
+                     <cell>33 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>32 00 0</cell>
+                     <cell>33 00 0</cell>
+                     <cell>34 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>32 16 0</cell>
+                     <cell>33 16 6</cell>
+                     <cell>34 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>33 12 0</cell>
+                     <cell>34 13 0</cell>
+                     <cell>35 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>34 08 0</cell>
+                     <cell>35 09 6</cell>
+                     <cell>36 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>35 04 0</cell>
+                     <cell>36 06 0</cell>
+                     <cell>37 08 0</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>36 00 0</cell>
+                     <cell>37 02 6</cell>
+                     <cell>38 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>36 16 0</cell>
+                     <cell>37 19 0</cell>
+                     <cell>39 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>37 12 0</cell>
+                     <cell>38 15 6</cell>
+                     <cell>39 19 0</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>38 08 0</cell>
+                     <cell>39 12 0</cell>
+                     <cell>40 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>39 04 0</cell>
+                     <cell>40 08 6</cell>
+                     <cell>41 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>40 00 0</cell>
+                     <cell>41 05 0</cell>
+                     <cell>42 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>40 16 0</cell>
+                     <cell>42 01 6</cell>
+                     <cell>43 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>41 12 0</cell>
+                     <cell>42 18 0</cell>
+                     <cell>44 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>42 08 0</cell>
+                     <cell>43 14 6</cell>
+                     <cell>45 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>43 04 0</cell>
+                     <cell>44 11 0</cell>
+                     <cell>45 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>44 00 0</cell>
+                     <cell>45 07 6</cell>
+                     <cell>46 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>44 16 0</cell>
+                     <cell>46 04 0</cell>
+                     <cell>47 12 0</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>45 12 0</cell>
+                     <cell>47 00 6</cell>
+                     <cell>48 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>46 08 0</cell>
+                     <cell>47 00 0</cell>
+                     <cell>49 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>47 04 0</cell>
+                     <cell>48 13 6</cell>
+                     <cell>50 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>48 00 0</cell>
+                     <cell>49 10 0</cell>
+                     <cell>51 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>48 16 0</cell>
+                     <cell>50 06 6</cell>
+                     <cell>51 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>49 12 0</cell>
+                     <cell>51 03 0</cell>
+                     <cell>52 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>50 08 0</cell>
+                     <cell>51 19 6</cell>
+                     <cell>53 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>51 04 0</cell>
+                     <cell>52 16 0</cell>
+                     <cell>54 08 0</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>52 00 0</cell>
+                     <cell>53 12 6</cell>
+                     <cell>55 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>52 16 0</cell>
+                     <cell>54 09 0</cell>
+                     <cell>56 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>53 12 0</cell>
+                     <cell>55 05 6</cell>
+                     <cell>56 19 0</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>54 08 0</cell>
+                     <cell>56 02 0</cell>
+                     <cell>57 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>55 04 0</cell>
+                     <cell>56 18 6</cell>
+                     <cell>58 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>56 00 0</cell>
+                     <cell>57 15 0</cell>
+                     <cell>59 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>56 16 0</cell>
+                     <cell>58 11 6</cell>
+                     <cell>60 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>57 12 0</cell>
+                     <cell>59 08 0</cell>
+                     <cell>61 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>58 08 0</cell>
+                     <cell>60 04 6</cell>
+                     <cell>62 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>59 04 0</cell>
+                     <cell>61 01 0</cell>
+                     <cell>62 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>60 00 0</cell>
+                     <cell>61 17 6</cell>
+                     <cell>63 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>61 16 0</cell>
+                     <cell>62 14 0</cell>
+                     <cell>64 12 0</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>61 12 0</cell>
+                     <cell>63 10 6</cell>
+                     <cell>65 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>62 08 0</cell>
+                     <cell>64 07 0</cell>
+                     <cell>66 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>63 04 0</cell>
+                     <cell>65 03 6</cell>
+                     <cell>67 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>64 00 0</cell>
+                     <cell>66 00 0</cell>
+                     <cell>68 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>81</cell>
+                     <cell>64 16 0</cell>
+                     <cell>66 16 6</cell>
+                     <cell>68 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>82</cell>
+                     <cell>65 12 0</cell>
+                     <cell>67 13 0</cell>
+                     <cell>69 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>83</cell>
+                     <cell>66 08 0</cell>
+                     <cell>68 09 6</cell>
+                     <cell>70 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>84</cell>
+                     <cell>67 04 0</cell>
+                     <cell>69 06 0</cell>
+                     <cell>71 08 0</cell>
+                  </row>
+                  <row>
+                     <cell>85</cell>
+                     <cell>68 00 0</cell>
+                     <cell>70 02 6</cell>
+                     <cell>72 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>86</cell>
+                     <cell>68 16 0</cell>
+                     <cell>70 19 0</cell>
+                     <cell>73 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell>69 12 0</cell>
+                     <cell>71 15 6</cell>
+                     <cell>73 19 0</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell>70 08 0</cell>
+                     <cell>72 12 0</cell>
+                     <cell>74 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell>71 04 0</cell>
+                     <cell>73 08 6</cell>
+                     <cell>75 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>72 00 0</cell>
+                     <cell>74 05 0</cell>
+                     <cell>76 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>91</cell>
+                     <cell>72 16 0</cell>
+                     <cell>75 01 6</cell>
+                     <cell>77 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>73 12 0</cell>
+                     <cell>75 18 0</cell>
+                     <cell>78 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>74 08 0</cell>
+                     <cell>76 14 6</cell>
+                     <cell>79 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell>75 04 0</cell>
+                     <cell>77 11 0</cell>
+                     <cell>79 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell>76 00 0</cell>
+                     <cell>78 07 6</cell>
+                     <cell>80 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell>76 16 0</cell>
+                     <cell>79 04 0</cell>
+                     <cell>81 12 0</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell>77 12 0</cell>
+                     <cell>80 00 6</cell>
+                     <cell>82 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell>78 08 0</cell>
+                     <cell>80 17 0</cell>
+                     <cell>83 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell>79 04 0</cell>
+                     <cell>81 13 6</cell>
+                     <cell>84 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>80 00 0</cell>
+                     <cell>82 10 0</cell>
+                     <cell>85 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>160 00 0</cell>
+                     <cell>165 00 0</cell>
+                     <cell>170 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>240 00 0</cell>
+                     <cell>247 10 0</cell>
+                     <cell>225 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>320 00 0</cell>
+                     <cell>330 00 0</cell>
+                     <cell>340 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>400 00 0</cell>
+                     <cell>412 10 0</cell>
+                     <cell>425 00 0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="4">Ale at 16 <abbr>
+                           <hi>s.</hi>
+                        </abbr> the Barrel, taken in by 3 Firkins.</cell>
+                     <cell role="label" cols="4">Ale at 16 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d.</hi>
+                        </abbr> the Barrel, taken in by 3 Firkins, is</cell>
+                     <cell role="label" cols="4">Ale at 17 <abbr>
+                           <hi>s.</hi>
+                        </abbr> the Barrel, taken in by 3 Firkins, is</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>00 12 0</cell>
+                     <cell>00 12 04½</cell>
+                     <cell>00 12 9</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>01 04 0</cell>
+                     <cell>01 04 09</cell>
+                     <cell>01 05 6</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>01 16 0</cell>
+                     <cell>01 17 01½</cell>
+                     <cell>01 18 3</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>02 08 0</cell>
+                     <cell>02 09 06</cell>
+                     <cell>02 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>03 00 0</cell>
+                     <cell>03 01 10½</cell>
+                     <cell>03 03 9</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>03 12 0</cell>
+                     <cell>03 14 03</cell>
+                     <cell>03 16 6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>04 04 0</cell>
+                     <cell>04 06 07½</cell>
+                     <cell>04 09 3</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>04 16 0</cell>
+                     <cell>04 19 00</cell>
+                     <cell>05 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>05 08 0</cell>
+                     <cell>05 11 04½</cell>
+                     <cell>05 14 9</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>06 00 0</cell>
+                     <cell>06 03 09</cell>
+                     <cell>06 07 6</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>06 12 0</cell>
+                     <cell>06 16 01½</cell>
+                     <cell>07 00 3</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>07 04 0</cell>
+                     <cell>07 08 06</cell>
+                     <cell>07 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>07 16 0</cell>
+                     <cell>08 00 10½</cell>
+                     <cell>08 05 9</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>08 08 0</cell>
+                     <cell>08 13 03</cell>
+                     <cell>08 18 6</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>09 00 0</cell>
+                     <cell>09 05 07½</cell>
+                     <cell>09 11 3</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>09 12 0</cell>
+                     <cell>09 18 00</cell>
+                     <cell>10 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>10 04 0</cell>
+                     <cell>10 10 04½</cell>
+                     <cell>10 16 9</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>10 16 0</cell>
+                     <cell>11 02 09</cell>
+                     <cell>11 09 6</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>11 08 0</cell>
+                     <cell>11 15 01½</cell>
+                     <cell>12 02 3</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>12 00 0</cell>
+                     <cell>12 07 06</cell>
+                     <cell>12 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>12 12 0</cell>
+                     <cell>12 19 10½</cell>
+                     <cell>13 07 9</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>13 04 0</cell>
+                     <cell>13 12 03</cell>
+                     <cell>14 00 6</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>13 16 0</cell>
+                     <cell>14 04 07½</cell>
+                     <cell>14 13 3</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>14 08 0</cell>
+                     <cell>14 17 00</cell>
+                     <cell>15 06 0</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>15 00 0</cell>
+                     <cell>15 09 04½</cell>
+                     <cell>15 18 9</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>15 12 0</cell>
+                     <cell>16 01 09</cell>
+                     <cell>16 11 6</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>16 04 0</cell>
+                     <cell>16 14 01½</cell>
+                     <cell>17 04 3</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>16 16 0</cell>
+                     <cell>17 06 06</cell>
+                     <cell>17 17 0</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>17 08 0</cell>
+                     <cell>17 18 10½</cell>
+                     <cell>18 09 9</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>18 00 0</cell>
+                     <cell>18 11 03</cell>
+                     <cell>19 02 6</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>18 12 0</cell>
+                     <cell>19 03 07½</cell>
+                     <cell>19 15 3</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>19 04 0</cell>
+                     <cell>19 16 00</cell>
+                     <cell>20 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>19 16 0</cell>
+                     <cell>20 08 04½</cell>
+                     <cell>21 00 9</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>20 08 0</cell>
+                     <cell>21 00 09</cell>
+                     <cell>21 13 6</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>21 00 0</cell>
+                     <cell>21 13 01½</cell>
+                     <cell>22 06 3</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>21 12 0</cell>
+                     <cell>22 05 06</cell>
+                     <cell>22 19 0</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>22 04 0</cell>
+                     <cell>22 17 10½</cell>
+                     <cell>23 11 9</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>22 16 0</cell>
+                     <cell>23 10 03</cell>
+                     <cell>24 04 6</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>23 08 0</cell>
+                     <cell>24 02 07½</cell>
+                     <cell>24 17 3</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>24 00 0</cell>
+                     <cell>24 15 00</cell>
+                     <cell>25 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>24 12 0</cell>
+                     <cell>25 07 04½</cell>
+                     <cell>26 02 9</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>25 04 0</cell>
+                     <cell>25 19 09</cell>
+                     <cell>26 15 6</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>25 16 0</cell>
+                     <cell>26 12 01½</cell>
+                     <cell>27 08 3</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>26 08 0</cell>
+                     <cell>27 04 06</cell>
+                     <cell>28 01 0</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>27 00 0</cell>
+                     <cell>27 16 10½</cell>
+                     <cell>28 13 9</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>27 12 0</cell>
+                     <cell>28 09 03</cell>
+                     <cell>29 06 6</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>28 04 0</cell>
+                     <cell>29 01 07½</cell>
+                     <cell>29 19 3</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>28 16 0</cell>
+                     <cell>29 14 00</cell>
+                     <cell>30 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>29 08 0</cell>
+                     <cell>30 06 04½</cell>
+                     <cell>31 04 9</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>30 00 0</cell>
+                     <cell>30 18 09</cell>
+                     <cell>31 17 6</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>30 12 0</cell>
+                     <cell>31 11 01½</cell>
+                     <cell>32 10 3</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>31 04 0</cell>
+                     <cell>32 03 06</cell>
+                     <cell>23 03 0</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>32 16 0</cell>
+                     <cell>32 15 10½</cell>
+                     <cell>33 15 9</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>33 08 0</cell>
+                     <cell>33 08 03</cell>
+                     <cell>34 08 6</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>33 00 0</cell>
+                     <cell>34 00 07½</cell>
+                     <cell>35 01 3</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>33 12 0</cell>
+                     <cell>34 13 00</cell>
+                     <cell>35 14 0</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>34 04 0</cell>
+                     <cell>35 05 04½</cell>
+                     <cell>36 09 9</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>34 16 0</cell>
+                     <cell>35 17 09</cell>
+                     <cell>36 19 6</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>35 08 0</cell>
+                     <cell>36 10 01½</cell>
+                     <cell>37 12 3</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>36 00 0</cell>
+                     <cell>37 02 06</cell>
+                     <cell>38 05 0</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>36 12 0</cell>
+                     <cell>37 14 10½</cell>
+                     <cell>38 17 9</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>37 04 0</cell>
+                     <cell>38 07 03</cell>
+                     <cell>39 10 6</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>37 16 0</cell>
+                     <cell>38 19 07½</cell>
+                     <cell>40 03 3</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>38 08 0</cell>
+                     <cell>39 12 00</cell>
+                     <cell>40 16 0</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>39 00 0</cell>
+                     <cell>40 04 04½</cell>
+                     <cell>41 08 9</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>39 12 0</cell>
+                     <cell>40 16 09</cell>
+                     <cell>42 01 6</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>40 04 0</cell>
+                     <cell>41 09 01½</cell>
+                     <cell>42 14 3</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>40 16 0</cell>
+                     <cell>42 01 06</cell>
+                     <cell>43 07 0</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>41 08 0</cell>
+                     <cell>42 13 10½</cell>
+                     <cell>43 19 9</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>42 00 0</cell>
+                     <cell>43 06 03</cell>
+                     <cell>44 12 6</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>42 12 0</cell>
+                     <cell>43 18 07½</cell>
+                     <cell>45 05 3</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>43 04 0</cell>
+                     <cell>44 11 00</cell>
+                     <cell>45 18 0</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>43 16 0</cell>
+                     <cell>45 03 04½</cell>
+                     <cell>46 10 9</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>44 08 0</cell>
+                     <cell>45 15 09</cell>
+                     <cell>47 03 6</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>45 00 0</cell>
+                     <cell>46 08 01½</cell>
+                     <cell>47 16 3</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>45 12 0</cell>
+                     <cell>47 00 06</cell>
+                     <cell>48 09 0</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>46 04 0</cell>
+                     <cell>47 12 10½</cell>
+                     <cell>49 01 2</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>46 16 0</cell>
+                     <cell>48 05 03</cell>
+                     <cell>49 14 6</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>47 08 0</cell>
+                     <cell>48 17 07½</cell>
+                     <cell>50 07 3</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>48 00 0</cell>
+                     <cell>49 10 00</cell>
+                     <cell>51 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>81</cell>
+                     <cell>48 12 0</cell>
+                     <cell>50 02 04½</cell>
+                     <cell>51 12 9</cell>
+                  </row>
+                  <row>
+                     <cell>82</cell>
+                     <cell>49 04 0</cell>
+                     <cell>50 14 09</cell>
+                     <cell>52 05 6</cell>
+                  </row>
+                  <row>
+                     <cell>83</cell>
+                     <cell>49 16 0</cell>
+                     <cell>51 07 01½</cell>
+                     <cell>52 18 3</cell>
+                  </row>
+                  <row>
+                     <cell>84</cell>
+                     <cell>50 08 0</cell>
+                     <cell>51 19 06</cell>
+                     <cell>53 11 0</cell>
+                  </row>
+                  <row>
+                     <cell>85</cell>
+                     <cell>51 00 0</cell>
+                     <cell>52 11 10½</cell>
+                     <cell>54 03 9</cell>
+                  </row>
+                  <row>
+                     <cell>86</cell>
+                     <cell>51 12 0</cell>
+                     <cell>52 04 03</cell>
+                     <cell>54 16 6</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell>52 04 0</cell>
+                     <cell>53 16 07½</cell>
+                     <cell>55 09 3</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell>52 16 0</cell>
+                     <cell>54 09 00</cell>
+                     <cell>56 02 0</cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell>53 08 0</cell>
+                     <cell>55 01 04½</cell>
+                     <cell>56 14 9</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>54 00 0</cell>
+                     <cell>55 13 09</cell>
+                     <cell>57 17 6</cell>
+                  </row>
+                  <row>
+                     <cell>91</cell>
+                     <cell>54 12 0</cell>
+                     <cell>56 06 01½</cell>
+                     <cell>58 00 3</cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>55 04 0</cell>
+                     <cell>56 18 06</cell>
+                     <cell>58 13 0</cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>55 16 0</cell>
+                     <cell>57 10 10½</cell>
+                     <cell>59 05 9</cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell>56 08 0</cell>
+                     <cell>58 03 03</cell>
+                     <cell>59 18 6</cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell>57 00 0</cell>
+                     <cell>58 15 07½</cell>
+                     <cell>60 11 3</cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell>57 12 0</cell>
+                     <cell>59 08 00</cell>
+                     <cell>61 04 0</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell>58 04 0</cell>
+                     <cell>60 00 04½</cell>
+                     <cell>61 16 9</cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell>58 16 0</cell>
+                     <cell>60 12 09</cell>
+                     <cell>62 09 6</cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell>59 08 0</cell>
+                     <cell>61 05 01½</cell>
+                     <cell>63 02 3</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>60 00 0</cell>
+                     <cell>61 17 06</cell>
+                     <cell>63 15 0</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>120 00 0</cell>
+                     <cell>123 15 00</cell>
+                     <cell>127 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>180 00 0</cell>
+                     <cell>185 12 06</cell>
+                     <cell>191 5 0</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>240 00 0</cell>
+                     <cell>247 10 00</cell>
+                     <cell>255 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>300 00 0</cell>
+                     <cell>309 07 00</cell>
+                     <cell>318 15 0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="5">Beer at 6 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d.</hi>
+                        </abbr> the Barrel</cell>
+                     <cell role="label" cols="5">Beer at 8 <abbr>
+                           <hi>s.</hi>
+                        </abbr> the Barrel.</cell>
+                     <cell role="label" cols="5">Beer at 9 <abbr>
+                           <hi>s.</hi>
+                        </abbr> the Barrel.</cell>
+                     <cell role="label" cols="5">Beer at 10 <abbr>
+                           <hi>s.</hi>
+                        </abbr> the Barrel.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Barrels</cell>
+                     <cell role="label">Barrels.</cell>
+                     <cell role="label">Barrels.</cell>
+                     <cell role="label">Barrels.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>00 06 6</cell>
+                     <cell>00 08 0</cell>
+                     <cell>00 09 0</cell>
+                     <cell>00 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>00 13 0</cell>
+                     <cell>00 16 0</cell>
+                     <cell>00 18 0</cell>
+                     <cell>01 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>00 19 6</cell>
+                     <cell>01 04 0</cell>
+                     <cell>01 07 0</cell>
+                     <cell>01 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>01 06 0</cell>
+                     <cell>01 12 0</cell>
+                     <cell>01 16 0</cell>
+                     <cell>02 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>01 12 6</cell>
+                     <cell>02 00 0</cell>
+                     <cell>02 05 0</cell>
+                     <cell>02 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>01 19 0</cell>
+                     <cell>02 08 0</cell>
+                     <cell>02 14 0</cell>
+                     <cell>03 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>02 05 6</cell>
+                     <cell>02 16 0</cell>
+                     <cell>03 03 0</cell>
+                     <cell>03 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>02 12 0</cell>
+                     <cell>03 04 0</cell>
+                     <cell>03 12 0</cell>
+                     <cell>04 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>02 18 6</cell>
+                     <cell>03 12 0</cell>
+                     <cell>04 01 0</cell>
+                     <cell>04 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>03 05 0</cell>
+                     <cell>04 00 0</cell>
+                     <cell>04 10 0</cell>
+                     <cell>05 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>03 11 6</cell>
+                     <cell>04 08 0</cell>
+                     <cell>04 19 0</cell>
+                     <cell>05 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>03 18 0</cell>
+                     <cell>04 16 0</cell>
+                     <cell>05 08 0</cell>
+                     <cell>06 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>04 04 6</cell>
+                     <cell>05 04 0</cell>
+                     <cell>05 17 0</cell>
+                     <cell>06 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>04 11 0</cell>
+                     <cell>05 12 0</cell>
+                     <cell>06 06 0</cell>
+                     <cell>07 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>04 17 6</cell>
+                     <cell>06 00 0</cell>
+                     <cell>06 15 0</cell>
+                     <cell>07 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>05 04 0</cell>
+                     <cell>06 08 0</cell>
+                     <cell>07 14 0</cell>
+                     <cell>08 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>05 10 6</cell>
+                     <cell>06 16 0</cell>
+                     <cell>07 13 0</cell>
+                     <cell>08 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>05 17 0</cell>
+                     <cell>07 04 0</cell>
+                     <cell>08 02 0</cell>
+                     <cell>09 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>06 03 6</cell>
+                     <cell>07 22 0</cell>
+                     <cell>08 11 0</cell>
+                     <cell>09 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>06 10 0</cell>
+                     <cell>08 00 0</cell>
+                     <cell>09 00 0</cell>
+                     <cell>10 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>06 16 6</cell>
+                     <cell>08 08 0</cell>
+                     <cell>09 09 0</cell>
+                     <cell>10 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>07 03 0</cell>
+                     <cell>08 16 0</cell>
+                     <cell>09 18 0</cell>
+                     <cell>11 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>07 09 6</cell>
+                     <cell>09 04 0</cell>
+                     <cell>10 07 0</cell>
+                     <cell>11 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>07 16 0</cell>
+                     <cell>09 12 0</cell>
+                     <cell>10 16 0</cell>
+                     <cell>12 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>08 02 6</cell>
+                     <cell>10 00 0</cell>
+                     <cell>11 05 0</cell>
+                     <cell>12 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>08 09 0</cell>
+                     <cell>10 08 0</cell>
+                     <cell>11 14 0</cell>
+                     <cell>13 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>08 15 6</cell>
+                     <cell>10 16 0</cell>
+                     <cell>12 03 0</cell>
+                     <cell>13 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>09 02 0</cell>
+                     <cell>11 04 0</cell>
+                     <cell>12 12 0</cell>
+                     <cell>14 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>09 08 6</cell>
+                     <cell>11 12 0</cell>
+                     <cell>13 01 0</cell>
+                     <cell>14 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>09 15 0</cell>
+                     <cell>12 00 0</cell>
+                     <cell>13 10 0</cell>
+                     <cell>15 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>10 01 6</cell>
+                     <cell>12 08 0</cell>
+                     <cell>13 19 0</cell>
+                     <cell>15 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>10 08 0</cell>
+                     <cell>12 16 0</cell>
+                     <cell>14 08 0</cell>
+                     <cell>16 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>10 04 6</cell>
+                     <cell>13 04 0</cell>
+                     <cell>14 17 0</cell>
+                     <cell>16 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>11 01 0</cell>
+                     <cell>13 12 0</cell>
+                     <cell>15 06 0</cell>
+                     <cell>17 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>11 07 6</cell>
+                     <cell>14 00 0</cell>
+                     <cell>15 15 0</cell>
+                     <cell>17 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>11 14 0</cell>
+                     <cell>14 08 0</cell>
+                     <cell>16 04 0</cell>
+                     <cell>18 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>12 00 6</cell>
+                     <cell>14 16 0</cell>
+                     <cell>16 13 0</cell>
+                     <cell>18 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>12 07 0</cell>
+                     <cell>15 04 0</cell>
+                     <cell>17 02 0</cell>
+                     <cell>19 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>12 13 6</cell>
+                     <cell>15 12 0</cell>
+                     <cell>17 11 0</cell>
+                     <cell>19 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>13 00 0</cell>
+                     <cell>16 00 0</cell>
+                     <cell>18 00 0</cell>
+                     <cell>20 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>13 06 6</cell>
+                     <cell>16 08 0</cell>
+                     <cell>18 09 0</cell>
+                     <cell>20 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>13 13 0</cell>
+                     <cell>16 16 0</cell>
+                     <cell>18 18 0</cell>
+                     <cell>21 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>13 19 6</cell>
+                     <cell>17 04 0</cell>
+                     <cell>19 07 0</cell>
+                     <cell>21 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>14 06 0</cell>
+                     <cell>17 12 0</cell>
+                     <cell>19 16 0</cell>
+                     <cell>22 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>14 12 6</cell>
+                     <cell>18 00 0</cell>
+                     <cell>20 05 0</cell>
+                     <cell>22 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>14 19 0</cell>
+                     <cell>18 08 0</cell>
+                     <cell>20 14 0</cell>
+                     <cell>23 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>15 05 6</cell>
+                     <cell>18 16 0</cell>
+                     <cell>21 03 0</cell>
+                     <cell>23 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>15 12 0</cell>
+                     <cell>19 04 0</cell>
+                     <cell>21 12 0</cell>
+                     <cell>24 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>15 18 6</cell>
+                     <cell>19 12 0</cell>
+                     <cell>22 01 0</cell>
+                     <cell>24 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>16 05 0</cell>
+                     <cell>20 00 0</cell>
+                     <cell>22 10 0</cell>
+                     <cell>25 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>16 11 6</cell>
+                     <cell>20 08 0</cell>
+                     <cell>22 19 0</cell>
+                     <cell>25 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>16 18 0</cell>
+                     <cell>20 16 0</cell>
+                     <cell>23 08 0</cell>
+                     <cell>26 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>17 14 6</cell>
+                     <cell>21 04 0</cell>
+                     <cell>23 17 0</cell>
+                     <cell>26 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>17 11 0</cell>
+                     <cell>21 12 0</cell>
+                     <cell>24 06 0</cell>
+                     <cell>27 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>17 17 6</cell>
+                     <cell>22 00 0</cell>
+                     <cell>24 15 0</cell>
+                     <cell>27 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>18 04 0</cell>
+                     <cell>22 38 0</cell>
+                     <cell>25 04 0</cell>
+                     <cell>28 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>18 10 6</cell>
+                     <cell>22 16 0</cell>
+                     <cell>25 13 0</cell>
+                     <cell>28 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>18 17 0</cell>
+                     <cell>23 04 0</cell>
+                     <cell>26 02 0</cell>
+                     <cell>29 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>19 03 6</cell>
+                     <cell>23 12 0</cell>
+                     <cell>26 11 0</cell>
+                     <cell>29 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>19 10 0</cell>
+                     <cell>24 00 0</cell>
+                     <cell>27 00 0</cell>
+                     <cell>30 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>19 16 6</cell>
+                     <cell>24 08 0</cell>
+                     <cell>27 09 0</cell>
+                     <cell>30 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>20 03 0</cell>
+                     <cell>24 16 0</cell>
+                     <cell>27 18 0</cell>
+                     <cell>31 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>20 09 6</cell>
+                     <cell>25 04 0</cell>
+                     <cell>28 07 0</cell>
+                     <cell>31 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>20 16 0</cell>
+                     <cell>25 12 0</cell>
+                     <cell>28 16 0</cell>
+                     <cell>32 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>21 02 6</cell>
+                     <cell>26 00 0</cell>
+                     <cell>29 05 0</cell>
+                     <cell>32 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>21 09 0</cell>
+                     <cell>26 08 0</cell>
+                     <cell>29 14 0</cell>
+                     <cell>33 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>21 15 6</cell>
+                     <cell>26 16 0</cell>
+                     <cell>30 03 0</cell>
+                     <cell>33 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>22 02 0</cell>
+                     <cell>27 04 0</cell>
+                     <cell>30 12 0</cell>
+                     <cell>34 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>22 08 6</cell>
+                     <cell>27 12 0</cell>
+                     <cell>31 01 0</cell>
+                     <cell>34 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>22 15 0</cell>
+                     <cell>28 00 0</cell>
+                     <cell>31 10 0</cell>
+                     <cell>35 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>23 01 6</cell>
+                     <cell>28 08 0</cell>
+                     <cell>31 19 0</cell>
+                     <cell>35 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>23 08 0</cell>
+                     <cell>28 16 0</cell>
+                     <cell>32 08 0</cell>
+                     <cell>36 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>23 14 6</cell>
+                     <cell>29 04 0</cell>
+                     <cell>32 17 0</cell>
+                     <cell>36 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>24 01 0</cell>
+                     <cell>29 12 0</cell>
+                     <cell>33 06 0</cell>
+                     <cell>37 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>24 07 6</cell>
+                     <cell>30 00 0</cell>
+                     <cell>33 15 0</cell>
+                     <cell>37 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>24 14 0</cell>
+                     <cell>30 08 0</cell>
+                     <cell>34 04 0</cell>
+                     <cell>38 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>25 00 6</cell>
+                     <cell>30 16 0</cell>
+                     <cell>34 13 0</cell>
+                     <cell>38 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>25 07 0</cell>
+                     <cell>31 04 0</cell>
+                     <cell>35 02 0</cell>
+                     <cell>39 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>25 14 6</cell>
+                     <cell>31 12 0</cell>
+                     <cell>35 11 0</cell>
+                     <cell>39 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>26 00 0</cell>
+                     <cell>32 00 0</cell>
+                     <cell>36 00 0</cell>
+                     <cell>40 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>81</cell>
+                     <cell>26 06 6</cell>
+                     <cell>32 08 0</cell>
+                     <cell>36 09 0</cell>
+                     <cell>40 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>82</cell>
+                     <cell>26 13 0</cell>
+                     <cell>32 16 0</cell>
+                     <cell>36 18 0</cell>
+                     <cell>41 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>83</cell>
+                     <cell>26 19 6</cell>
+                     <cell>33 04 0</cell>
+                     <cell>37 07 0</cell>
+                     <cell>41 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>84</cell>
+                     <cell>27 06 0</cell>
+                     <cell>33 12 0</cell>
+                     <cell>37 16 0</cell>
+                     <cell>42 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>85</cell>
+                     <cell>27 12 6</cell>
+                     <cell>34 00 0</cell>
+                     <cell>38 05 0</cell>
+                     <cell>42 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>86</cell>
+                     <cell>27 19 0</cell>
+                     <cell>34 08 0</cell>
+                     <cell>38 14 0</cell>
+                     <cell>43 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell>28 05 6</cell>
+                     <cell>34 16 0</cell>
+                     <cell>39 03 0</cell>
+                     <cell>43 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell>28 12 0</cell>
+                     <cell>35 04 0</cell>
+                     <cell>39 12 0</cell>
+                     <cell>44 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell>28 18 6</cell>
+                     <cell>35 12 0</cell>
+                     <cell>40 01 0</cell>
+                     <cell>44 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>29 05 0</cell>
+                     <cell>36 00 0</cell>
+                     <cell>40 10 0</cell>
+                     <cell>45 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>91</cell>
+                     <cell>29 11 6</cell>
+                     <cell>36 08 0</cell>
+                     <cell>40 19 0</cell>
+                     <cell>45 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>29 18 0</cell>
+                     <cell>36 16 0</cell>
+                     <cell>41 18 0</cell>
+                     <cell>46 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>30 04 6</cell>
+                     <cell>37 04 0</cell>
+                     <cell>41 17 0</cell>
+                     <cell>46 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell>30 11 0</cell>
+                     <cell>37 12 0</cell>
+                     <cell>42 06 0</cell>
+                     <cell>47 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell>30 17 6</cell>
+                     <cell>38 00 0</cell>
+                     <cell>42 15 0</cell>
+                     <cell>47 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell>31 04 0</cell>
+                     <cell>38 08 0</cell>
+                     <cell>43 04 0</cell>
+                     <cell>48 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell>31 10 6</cell>
+                     <cell>38 16 0</cell>
+                     <cell>43 13 0</cell>
+                     <cell>48 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell>31 17 0</cell>
+                     <cell>39 04 0</cell>
+                     <cell>44 02 0</cell>
+                     <cell>49 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell>32 03 6</cell>
+                     <cell>39 12 0</cell>
+                     <cell>44 11 0</cell>
+                     <cell>59 10 0</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>32 10 0</cell>
+                     <cell>40 00 0</cell>
+                     <cell>45 00 0</cell>
+                     <cell>50 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>65 00 0</cell>
+                     <cell>10 00 0</cell>
+                     <cell>90 00 0</cell>
+                     <cell>100 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>97 10 0</cell>
+                     <cell>120 00 0</cell>
+                     <cell>135 00 0</cell>
+                     <cell>150 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>130 00 0</cell>
+                     <cell>860 00 0</cell>
+                     <cell>180 00 0</cell>
+                     <cell>200 00 0</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>162 10 0</cell>
+                     <cell>200 00 0</cell>
+                     <cell>225 00 0</cell>
+                     <cell>240 00 0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and Publiſhed by <hi>Randolph Taylor</hi> over againſt <hi>Stationers Hall.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
